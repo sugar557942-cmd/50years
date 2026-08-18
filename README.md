@@ -22,4 +22,4 @@ HTML 은 마크다운 원문에서 생성합니다. 두 벌을 손으로 관리�
 ## 운영자
 
 - 인사이트빌드
-- insightbuild@daum.net
+- gensightofficial@gmail.com
